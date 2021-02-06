@@ -25,3 +25,6 @@ git status
 git add
 git commit
 ```
+
+Links :
+This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-github).
