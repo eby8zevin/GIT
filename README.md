@@ -29,3 +29,9 @@ git commit
 Links :
 
 This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-github).
+
+Section links :
+
+Relative links :
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
