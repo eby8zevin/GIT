@@ -35,3 +35,17 @@ Section links :
 Relative links :
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+Lists :
+
+- Ahmad
+- Abu
+- Hasan
+
+* Ahmad
+* Abu
+* Hasan
+
+1. Ahmad
+2. Abu
+3. Hasan
