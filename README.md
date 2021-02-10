@@ -10,7 +10,8 @@ Training Github
 
 </details>
 
-<h2 id="styling_text">Styling text</h2>
+<details>
+   <summary> <b id="styling_text">Styling text<b> </summary>
 
 **bold text** | __This is bold text__
 
@@ -21,6 +22,8 @@ Training Github
 **bold and nested _italic_ text**
 
 ***all bold and italic text***
+
+</details>
 
 <h2 id="quoting_text">Quoting text</h2>
 
