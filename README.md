@@ -1,42 +1,49 @@
 # learn-github
 Training Github
 
+<h2 id="headings">Headings</h2>
+
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
 
-**bold text**
+<h2 id="styling_text">Styling text</h2>
 
-*italic text*
+**bold text** | __This is bold text__
+
+*italic text* | _This text is italicized_
 
 ~~strikethrough text~~
 
-**bold and nested _italic_ text **
+**bold and nested _italic_ text**
 
 ***all bold and italic text***
 
+<h2 id="quoting_text">Quoting text</h2>
+
 > Quoting text
+
+<h2 id="quoting_code">Quoting code</h2>
 
 Example `git status` single backticks
 
-Quoting code :
 ```
 git status
 git add
 git commit
 ```
 
-Links :
+<h2 id="links">Links</h2>
 
 This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-github).
 
-Section links :
+<h2 id="section_links">Section links</h2>
 
-Relative links :
+<h2 id="relative_links">Relative links</h2>
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-Lists :
+<h2 id="lists">Lists</h2>
 
 - Ahmad
 - Abu
@@ -50,7 +57,7 @@ Lists :
 2. Abu
 3. Hasan
 
-Nested Lists :
+Nested Lists :<h2 id="nested_lists">Nested Lists</h2>
 
 1. First list item
    - First nested list item
