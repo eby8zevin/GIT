@@ -85,3 +85,7 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
      - First nested list item
 
 <h2 id="task_lists">Task lists</h2>
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
