@@ -2,18 +2,17 @@
 Training Github
 
 1. [Headings](#headings)
+1. [Styling text](#styling_text)
 
-<details>
-   <summary> <b id="headings">Headings</b> </summary>
+___
+
+<h2 id="headings">Headings</h2>
 
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
 
-</details>
-
-<details>
-   <summary> <b id="styling_text">Styling text<b> </summary>
+<h2 id="styling_text">Styling text</h2>
 
 **bold text** | __This is bold text__
 
@@ -25,17 +24,11 @@ Training Github
 
 ***all bold and italic text***
 
-</details>
-
-<details>
-   <summary> <b id="quoting_text">Quoting text</b> </summary>
+<h2 id="quoting_text">Quoting text</h2>
 
 > Quoting text
 
-</details>
-
-<details>
-   <summary> <b id="quoting_code">Quoting code</b> </summary>
+<h2 id="quoting_code">Quoting code</h2>
 
 Example `git status` single backticks
 
