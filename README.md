@@ -3,6 +3,13 @@ Training Github
 
 1. [Headings](#headings)
 1. [Styling text](#styling_text)
+1. [Quoting text](#quoting_code)
+1. [Links](#links)
+1. [Section links](#section_links)
+1. [Relative links](#relative_links)
+1. [Lists](#lists)
+1. [Nested Lists](#nested_lists)
+1. [Task lists](task_lists)
 
 ___
 
@@ -39,8 +46,6 @@ git status
 git add
 git commit
 ```
-
-</details>
 
 <h2 id="links">Links</h2>
 
