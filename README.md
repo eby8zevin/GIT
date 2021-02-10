@@ -1,11 +1,14 @@
 # learn-github
 Training Github
 
-<h2 id="headings">Headings</h2>
+<details>
+   <summary> <b id="headings">Headings</b> </summary>
 
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+
+</details>
 
 <h2 id="styling_text">Styling text</h2>
 
