@@ -8,8 +8,8 @@ Training Github
 1. [Section links](#section_links)
 1. [Relative links](#relative_links)
 1. [Lists](#lists)
-1. [Nested Lists](#nested_lists)
-1. [Task lists](task_lists)
+   1. [Nested Lists](#nested_lists)
+1. [Task lists](#task_lists)
 
 ___
 
