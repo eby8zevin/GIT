@@ -1,6 +1,8 @@
 # learn-github
 Training Github
 
+1. [Headings](#headings)
+
 <details>
    <summary> <b id="headings">Headings</b> </summary>
 
@@ -25,19 +27,27 @@ Training Github
 
 </details>
 
-<h2 id="quoting_text">Quoting text</h2>
+<details>
+   <summary> <b id="quoting_text">Quoting text</b> </summary>
 
 > Quoting text
 
-<h2 id="quoting_code">Quoting code</h2>
+</details>
+
+<details>
+   <summary> <b id="quoting_code">Quoting code</b> </summary>
 
 Example `git status` single backticks
+
+use triple backticks :
 
 ```
 git status
 git add
 git commit
 ```
+
+</details>
 
 <h2 id="links">Links</h2>
 
