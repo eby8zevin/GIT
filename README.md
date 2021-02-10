@@ -57,7 +57,7 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
 2. Abu
 3. Hasan
 
-Nested Lists :<h2 id="nested_lists">Nested Lists</h2>
+<h2 id="nested_lists">Nested Lists</h2>
 
 1. First list item
    - First nested list item
@@ -69,3 +69,5 @@ Nested Lists :<h2 id="nested_lists">Nested Lists</h2>
      
 100. First list item
      - First nested list item
+
+<h2 id="task_lists">Task lists</h2>
