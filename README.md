@@ -11,6 +11,7 @@ Training Github
    1. [Nested Lists](#nested_lists)
 1. [Task lists](#task_lists)
 1. [Mentioning people and teams](#mentioning_people_and_teams)
+1. [Referencing issues and pull requests](#referencing_issues_and_pull_requests)
 
 ___
 
@@ -96,3 +97,7 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
 <h2 id="mentioning_people_and_teams">Mentioning people and teams</h2>
 
 @github/support What do you think about these updates?
+
+<h2 id="referencing_issues_and_pull_requests">Referencing issues and pull requests</h2>
+
+#1234
