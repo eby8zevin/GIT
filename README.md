@@ -12,6 +12,7 @@ Training Github
 1. [Task lists](#task_lists)
 1. [Mentioning people and teams](#mentioning_people_and_teams)
 1. [Referencing issues and pull requests](#referencing_issues_and_pull_requests)
+1. [Referencing external resources](#referencing_external_resources)
 
 ___
 
@@ -101,3 +102,7 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
 <h2 id="referencing_issues_and_pull_requests">Referencing issues and pull requests</h2>
 
 #1234
+
+<h2 id="referencing_external_resources">Referencing external resources</h2>
+
+Autolink references.
