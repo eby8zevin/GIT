@@ -13,6 +13,7 @@ Training Github
 1. [Mentioning people and teams](#mentioning_people_and_teams)
 1. [Referencing issues and pull requests](#referencing_issues_and_pull_requests)
 1. [Referencing external resources](#referencing_external_resources)
+1. [Content attachments](#content_attachments)
 
 ___
 
@@ -106,3 +107,5 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
 <h2 id="referencing_external_resources">Referencing external resources</h2>
 
 Autolink references.
+
+<h2 id="content_attachments">Content attachments</h2>
