@@ -14,6 +14,7 @@ Training Github
 1. [Referencing issues and pull requests](#referencing_issues_and_pull_requests)
 1. [Referencing external resources](#referencing_external_resources)
 1. [Content attachments](#content_attachments)
+1. [Using emoji](#using_emoji)
 
 ___
 
@@ -109,3 +110,7 @@ This site was built using [GitHub Pages](https://github.com/eby8zevin/learn-gith
 Autolink references.
 
 <h2 id="content_attachments">Content attachments</h2>
+
+<h2 id="using_emoji">Using emoji</h2>
+
+@eby8zevin :+1: This PR looks great - it's ready to merge! :shipit:
