@@ -111,6 +111,10 @@ Autolink references.
 
 <h2 id="content_attachments">Content attachments</h2>
 
+Installing a GitHub App in your personal account
+
+Installing an OAuth App in your personal account
+
 <h2 id="using_emoji">Using emoji</h2>
 
 @eby8zevin :+1: This PR looks great - it's ready to merge! :shipit:
