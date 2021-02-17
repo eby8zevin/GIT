@@ -15,6 +15,7 @@ Training Github
 1. [Referencing external resources](#referencing_external_resources)
 1. [Content attachments](#content_attachments)
 1. [Using emoji](#using_emoji)
+1. [Paragraphs](#paragraphs)
 
 ___
 
@@ -118,3 +119,7 @@ Installing an OAuth App in your personal account
 <h2 id="using_emoji">Using emoji</h2>
 
 @eby8zevin :+1: This PR looks great - it's ready to merge! :shipit:
+
+<h2 id="paragraphs">Paragraphs</h2>
+
+You can create a new paragraph by leaving a blank line between lines of text.
