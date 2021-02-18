@@ -129,4 +129,4 @@ You can create a new paragraph by leaving a blank line between lines of text.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
-more [Daring Fireball's)(https://daringfireball.net/projects/markdown/syntax#backslash)
+more [Daring Fireball's](https://daringfireball.net/projects/markdown/syntax#backslash)
