@@ -16,6 +16,7 @@ Training Github
 1. [Content attachments](#content_attachments)
 1. [Using emoji](#using_emoji)
 1. [Paragraphs](#paragraphs)
+1. [Ignoring Markdown formatting](#ignoring_markdown_formatting)
 
 ___
 
@@ -123,3 +124,9 @@ Installing an OAuth App in your personal account
 <h2 id="paragraphs">Paragraphs</h2>
 
 You can create a new paragraph by leaving a blank line between lines of text.
+
+<h2 id="ignoring_markdown_formatting">Ignoring Markdown formatting</h2>
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+more [Daring Fireball's)(https://daringfireball.net/projects/markdown/syntax#backslash)
