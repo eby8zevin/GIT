@@ -17,6 +17,7 @@ Training Github
 1. [Using emoji](#using_emoji)
 1. [Paragraphs](#paragraphs)
 1. [Ignoring Markdown formatting](#ignoring_markdown_formatting)
+1. [Further reading](#further_reading)
 
 ___
 
@@ -130,3 +131,13 @@ You can create a new paragraph by leaving a blank line between lines of text.
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 more [Daring Fireball's](https://daringfireball.net/projects/markdown/syntax#backslash)
+
+<h2 id="further_reading">Further reading</h2>
+
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
+- ["About writing and formatting on GitHub"](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
+
+- ["Working with advanced formatting"](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
+
+- ["Mastering Markdown"](https://guides.github.com/features/mastering-markdown/)
