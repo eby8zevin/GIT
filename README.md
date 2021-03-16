@@ -1,5 +1,4 @@
-# learn-github
-Training Github
+# markdown-github
 
 1. [Headings](#headings)
 1. [Styling text](#styling_text)
