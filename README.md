@@ -133,7 +133,7 @@ more [Daring Fireball's](https://daringfireball.net/projects/markdown/syntax#bac
 
 <h2 id="further_reading">Further reading</h2>
 
-- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm)
 
 - ["About writing and formatting on GitHub"](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
 
