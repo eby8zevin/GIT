@@ -1,44 +1,55 @@
-`git config --global user.name "Your Name"`
-`git config --global user.email "your@email.com"`
-`git config --list --show-origin`
+Set your username `git config --global user.name "Your Name"`
+<br>
+Set your email address `git config --global user.email "your@email.com"`
+\
+Check all configuration `git config --list --show-origin`
 
-`git init`
-`git status`
+Create repository `git init`
+\
+Check status `git status`
 
-`git add <namefile>` | `git add <namefile> <namefile>` | `git add .` 
-`git commit -m "commit message"`
-`git diff`
-`git diff <hash1> <hash2>`
-`git difftool <hash1> <hash2>`
+Add file from working_directory to staging_index `git add <namefile>` or `git add <namefile> <namefile>` or all file `git add .` 
+\
+Commit to repository `git commit -m "commit message"`
 
-`git restore <namefile>`
-`git restore --staged <namefile>`
+Compare commit `git diff` or `git diff <hash1> <hash2>` or open code_editor `git difftool <hash1> <hash2>`
 
-`git clean -f`
+Undo changes in working_directory `git restore <namefile>`
+\
+Undo changes in staging_index `git restore --staged <namefile>`
 
-`git log`
-`git log --oneline`
-`git log --oneline --graph`
-`git show <hash>`
-`git show HEAD`
+Cancel all new file `git clean -f`
 
-`git reset --soft <hash>`
-`git reset --mixed <hash>`
-`git reset --hard <hash>`
+See history `git log` or `git log --oneline` or `git log --oneline --graph`
+\
+See detail commit `git show <hash>` or `git show HEAD`
 
-`git commit --amend -m "commit message"`
+Reset commit a HEAD:
+\
+--soft `git reset --soft <hash>`
+\
+--mixed (default) `git reset --mixed <hash>`
+\
+--hard `git reset --hard <hash>`
 
-`git checkout <hash> -- <namefile>`
-`git checkout <hash>`
-`git checkout master/main`
+Update/merge file in one commit `git commit --amend -m "commit message"`
 
-`git revert <hash>`
+View file previous version `git checkout <hash> -- <namefile>`
+\
+View snapshot `git checkout <hash>`
+\
+back to a HEAD `git checkout master/main`
 
-`git blame <namefile>`
-`git show <hashblame>`
+Revert commit `git revert <hash>`
 
-`git config --global alias.ko commit`
-`git config --global alias.komit commit`
-`git config --global alias.logone "log --oneline"`
+Find out WHO detail changed file `git blame <namefile>`
+\
+View changes `git show <hashblame>`
 
-`git branch --show-current`
+Alias `git config --global alias.ko commit` or `git config --global alias.komit commit` or two words `git config --global alias.logone "log --oneline"`
+
+Hidden file, create file `.gitignore`
+
+View name branch `git branch --show-current`
+
+[Source](https://docs.google.com/presentation/d/1PQEVGpmhj_3ASopsP-48NRkjilOcOuwWr_gDtwB1IEg/edit?usp=sharing)
