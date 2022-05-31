@@ -1,12 +1,17 @@
-`git branch <namebranch>`
-`git branch --list` or `git branch`
+Create new branch `git branch <namenewbranch>`
+\
+View list branch `git branch --list` or `git branch`
 
-`git switch <namebranch>` or `git checkout <namebranch>`
-`git branch -m <changenamebranch>`
+Change branch `git switch <namebranch>` or `git checkout <namebranch>`
+\
+Change name branch `git branch -m <changenamebranch>`
 
-`git branch -d <namebranch>` or `git branch --delete <namebranch>`
+Delete branch `git branch -d <namebranch>` or `git branch --delete <namebranch>`
 
-`git merge <fromnamebranch>`
-`git merge --abort`
+Merge between branch `git merge <fromnamebranch>`
+\
+Cancel merge `git merge --abort`
 
-`git cherry-pick <commitid>`
+Merge only partially commit `git cherry-pick <commitid>`
+
+[Source](https://docs.google.com/presentation/d/1bRS_nQh3oRvefwpoDJU8sfE70p2C9GTm5U4HANRX-Zk/edit?usp=sharing)
